@@ -5,17 +5,17 @@ const siteMetadata = {
   description: 'Yazacağım teknik bloglar Feynman`ın gösterdiği yolu izleyecekler.',
   language: 'tr-tr',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://orhancansu.vercel.app/',
-  siteRepo: 'https://github.com/konerjonlar/blog-nextjs-tailwind',
+  siteUrl: 'https://mertcaliskan.vercel.app/',
+  siteRepo: 'https://github.com/mertcaliskanlnx/blog-nextjs-tailwind',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'orhancansu98@gmail.com',
-  github: 'https://github.com/konerjonlar',
-  twitter: 'https://twitter.com/orhancansu15',
+  email: 'mertcaliskanlinux@gmail.com',
+  github: 'https://github.com/mertcaliskanlnx',
+  twitter: 'https://twitter.com/mertlinux',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/in/orhan-cansu',
+  linkedin: 'https://www.linkedin.com/in/',
   locale: 'tr-TR',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
