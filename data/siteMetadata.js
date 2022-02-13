@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Hoşgeldiniz',
-  author: 'Orhan Cansu',
-  headerTitle: 'Zaman bir illüzyon...',
+  author: 'Mert Çalışkan',
+  headerTitle: 'SOFTWARE',
   description: 'Yazacağım teknik bloglar Feynman`ın gösterdiği yolu izleyecekler.',
   language: 'tr-tr',
   theme: 'system', // system, dark or light
